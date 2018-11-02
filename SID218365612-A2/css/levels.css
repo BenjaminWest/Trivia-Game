@@ -1,0 +1,107 @@
+/*Level 1 Styling*/
+#level1 {
+	background: #185FC0;
+}
+
+#levelButton1{
+	background-color: #F90B22;
+	border: solid 3px #FFFFFF;
+}
+
+#level1 button {
+	background-color: #F90B22;
+	border: solid 3px #FFFFFF;
+}
+
+#level1 input[type="button"] {
+	background-color: #F90B22;
+	border: solid 3px #FFFFFF;
+}
+
+#level1 p {
+	color: white;
+}
+
+#level1 .correct {
+	color: #67D300;
+}
+
+#level1 .incorrect {
+	color: #F90B22;
+}
+
+#level1 .wrong {
+	color: grey;
+}
+
+/*Level 2 Styling*/
+#level2 {
+	background: #510FCB;
+}
+
+#levelButton2{
+	background-color: #049A8F;
+	border: solid 3px #FBCA07;
+}
+
+#level2 button {
+	background-color: #049A8F;
+	border: solid 3px #FBCA07;
+}
+
+#level2 input[type="button"] {
+	background-color: #049A8F;
+	border: solid 3px #FBCA07;
+}
+
+#level2 p {
+	color: white;
+}
+
+#level2 .correct {
+	color: #67D300;
+}
+
+#level2 .incorrect {
+	color: #049A8F;
+}
+
+#level2 .wrong {
+	color: red;
+}
+
+/*Level 3 Styling*/
+#level3 {
+	background: #FF0700;
+}
+
+#levelButton3{
+	background-color: #FFAB00;
+	border: solid 3px #FF7600;
+}
+
+#level3 button {
+	background-color: #FFAB00;
+	border: solid 3px #FF7600;
+}
+
+#level3 input[type="button"] {
+	background-color: #FFAB00;
+	border: solid 3px #FF7600;
+}
+
+#level3 p {
+	color: white;
+}
+
+#level3 .correct {
+	color: #67D300;
+}
+
+#level3 .incorrect {
+	color: #FFAB00;
+}
+
+#level3 .wrong {
+	color: red;
+}

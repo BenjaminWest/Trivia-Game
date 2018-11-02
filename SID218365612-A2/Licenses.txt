@@ -1,0 +1,190 @@
+Name: World.png
+License Type: CCO
+Author: OpenClickart-Vectors
+Source Website: https://pixabay.com/en/world-earth-planet-continents-154527/
+
+Name: Austria.png
+License Type: CCO
+Author: Clker-Free-Vector-Images
+Source Website: https://pixabay.com/en/austria-flag-national-symbol-26881/
+
+Name: Belgium.jpg
+License Type: CCO
+Author: JessicaJohnson
+Source Website: https://pixabay.com/en/belgium-flag-wind-grey-symbol-1335155/
+
+Name: France.jpg
+License Type: CCO
+Author: jackmac34
+Source Website: https://pixabay.com/en/france-french-flag-nation-1273150/
+
+Name: Thailand.jpg
+License Type: CCO
+Author: tikisada
+Source Website: https://pixabay.com/en/flag-wind-country-banner-outdoors-3325419/
+
+Name: Maylaysia.jpg
+License Type: CCO
+Author: terimakasih0
+Source Website: https://pixabay.com/en/malaysian-flag-flag-malaysia-1439149/
+
+Name: NKoera.png
+License Type: CCO
+Author: Clker-Free-Vector-Images
+Source Website: https://pixabay.com/en/north-korea-flag-korea-pyongyang-40605/
+
+Name: Compass.jps
+License Type: CCO
+Author: dima_goroziya
+Source Website: https://pixabay.com/en/compass-hand-desktop-background-1753659/
+
+Name: Sushi.jpg
+License Type: CCO
+Author: Einladung_zum_Essen
+Source Website: https://pixabay.com/en/sushi-vegetarian-vegetables-rice-2112350/
+
+Name: MonaLisa.jpg
+License Type: CCO
+Author: Free-Photos
+Source Website: https://pixabay.com/en/mona-lisa-painting-art-690203/
+
+Name: Dracula.jpg
+License Type: CCO
+Author: lumpi
+Source Website: https://pixabay.com/en/dracula-tooth-bite-halloween-987980/
+
+Name: Alps.jpg
+License Type: CCO
+Author: Simon
+Source Website: https://pixabay.com/en/rough-horn-alpine-2146181/
+
+Name: EU.jpg
+License Type: CCO
+Author: Capri23auto
+Source Website: https://pixabay.com/en/flag-europe-europe-flag-eu-flag-3370970/
+
+Name: Germany.jpg
+License Type: CCO
+Author: 3dman_eu
+Source Website: https://pixabay.com/en/map-germany-flag-borders-country-1020091/
+
+Name: Earth.jpg
+License Type: CCO
+Author: PIRO4D
+Source Website: https://pixabay.com/en/earth-planet-world-globe-space-1617121/
+
+Name: Railway.jpg
+License Type: CCO
+Author: Skitterphoto
+Source Website: https://pixabay.com/en/subway-metro-speed-underground-2227664/
+
+Name: Europe.jpg
+License Type: CCO
+Author: Hans
+Source Website: https://pixabay.com/en/map-central-europe-europe-1804891/
+
+Name: Florence.jpg
+License Type: CCO
+Author: sopwithxiii1918
+Source Website: https://pixabay.com/en/florence-sunset-city-old-italy-2834701/
+
+Name: Plague.jpg
+License Type: CCO
+Author: Conmongt
+Source Website: https://pixabay.com/en/plague-bill-doctor-middle-ages-1303922/
+
+Name: America.jpg
+License Type: CCO
+Author: Alexas_Fotos
+Source Website: https://pixabay.com/en/flag-america-usa-united-states-3368374/
+
+Name: Liberty.jpg
+License Type: CCO
+Author: jeffreysmith85
+Source Website: https://pixabay.com/en/liberty-bell-philadelphia-2811014/
+
+Name: Hardvard.jpg
+License Type: CCO
+Author: 12019
+Source Website: https://pixabay.com/en/cambridge-massachusetts-103478/
+
+Name: Alaska.jpg
+License Type: CCO
+Author: Schmid-Reportagen
+Source Website: https://pixabay.com/en/alaska-glacier-ice-mountains-810433/
+
+Name: Hawaii.jpg
+License Type: CCO
+Author: BKD
+Source Website: https://pixabay.com/en/beach-landscape-hawaii-maui-kihei-1630540/
+
+Name: TV.png
+License Type: CCO
+Author: AlexAntropov89
+Source Website: https://pixabay.com/en/tv-70s-60s-1960s-1970s-vintage-2213140/
+
+Name: Statue.jpg
+License Type: CCO
+Author: TheDigitalArtist
+Source Website: https://pixabay.com/en/statue-of-liberty-usa-america-2114376/
+
+Name: Pearl.jpg
+License Type: CCO
+Author: wojoan
+Source Website: https://pixabay.com/en/water-travel-sky-outdoors-hawaii-3296109/
+
+Name: White.jpg
+License Type: CCO
+Author: 12019
+Source Website: https://pixabay.com/en/the-white-house-washington-dc-1623005/
+
+Name: Nobel.jpg
+License Type: CCO
+Author: fill
+Source Website: https://pixabay.com/en/nobel-prize-nobel-award-1356450/
+
+Name: Trump.jpg
+License Type: CCO
+Author: TheRokon
+Source Website: https://pixabay.com/en/donald-trump-cartoon-donald-trump-3215069/
+
+Name: Asia.jpg
+License Type: CCO
+Author: Quangpraha
+Source Website: https://pixabay.com/en/salt-hon-khoi-vietnam-field-3060093/
+
+Name: Wall.jpg
+License Type: CCO
+Author: panayota
+Source Website: https://pixabay.com/en/the-great-wall-china-badaling-2190047/
+
+Name: Ring.jpg
+License Type: CCO
+Author: Agzam
+Source Website: https://pixabay.com/en/the-olympic-rings-symbol-olympics-3169743/
+
+Name: Buddhism.jpg
+License Type: CCO
+Author: 4144132
+Source Website: https://pixabay.com/en/meditation-buddhism-monk-temple-2214532/ 
+
+Name: Attack.jpg
+License Type: CCO
+Author: Wikilmages
+Source Website: https://pixabay.com/en/destroyer-warship-pearl-harbor-ship-62960/
+
+Name: Sword.jpg
+License Type: CCO
+Author: skefalacca
+Source Website: https://pixabay.com/en/katana-japan-samurai-asia-2662867/
+
+Name: Japan.png
+License Type: CCO
+Author: Clker-Free-Vector-Images
+Source Website: https://pixabay.com/en/flag-japan-japanese-nation-32177/
+
+Name: Bang.png
+License Type: CCO
+Author: OpenClickart-Vectors
+Source Website: https://pixabay.com/en/bangladesh-flag-national-flag-162238/
+
